@@ -1,7 +1,7 @@
 <?php
 /**
  * Example code for tutorial post on custom meta boxes:
- * https://wptheming.com/2010/08/custom-metabox-for-post-type/
+ * 
  */
 
 /**
